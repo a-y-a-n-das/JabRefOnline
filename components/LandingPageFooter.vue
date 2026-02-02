@@ -68,7 +68,7 @@
           </li>
           <li class="py-1">
             <t-nuxtlink
-              class="no-underline text-sm text-gray-800 hover:text-primary-800"
+              class="no-underline text-sm text-gray-800 hover:text-primary-800               hover:cursor-pointer"
               @click="showLegalNotices = true"
             >
               Legal Notices
@@ -76,7 +76,7 @@
           </li>
           <li class="py-1">
             <t-nuxtlink
-              class="no-underline text-sm text-gray-800 hover:text-primary-800"
+              class="no-underline text-sm text-gray-800 hover:text-primary-800               hover:cursor-pointer"
               @click="showPrivacyPolicy = true"
             >
               Privacy Policy
